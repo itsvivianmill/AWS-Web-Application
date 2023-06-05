@@ -44,6 +44,7 @@ The next thing that I did was create an EC2 instance, originally I created two b
   - Security Group: Select existing security group (WebServerSecurityGroup)
 * **Advanced details**:
   - User data: The website file of the University
+![web app](https://github.com/itsvivianmill/AWS-Web-Application/assets/116047994/4f992af3-7924-4858-8744-36a144989555)
 
 I launched the instance and waited for it to initialize. 
 
