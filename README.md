@@ -1,4 +1,5 @@
 # AWS-Web-Application
+![AWS Capstone Project Lucidchart](https://github.com/itsvivianmill/AWS-Web-Application/assets/116047994/cfbc708a-7db2-4a28-9eb5-5b53ef7eae5e)
 
 ## Overview and Objectives 
 The hypothetical scenario is about a school called XYZ University that is preparing for the new school year and there have been complaints that their web application is slow or not available during the admissions period. XYZ University wants their framework to be able to handle peak admissions periods, support thousands of users, and be highly available, scalable, load balanced, secure, and high performing. 
