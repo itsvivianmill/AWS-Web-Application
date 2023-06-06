@@ -81,6 +81,8 @@ Now that I have a launch template and an application load balancer, it helps cre
 * **Application and OS Images**: WebServerSecurityGroup
 * **Security Group**: WebServerSecurityGroup
 
+## Testing the Instances
+
 Originally, the biggest struggle was to check whether or not my load balancer and scaling group worked. To test the load of my framework, I used a method that utilized EC2 Instance Connect where I would connect into the instance and use the command line. The following commands was what I used:
 * sudo apt install stress -y
 * sudo stress --cpu 24 --vm-bytes $(awk '/MemAvailable/{printf "%d\n", $2 * 0.9;}' < /proc/meminfo)k --vm-keep -m 1
