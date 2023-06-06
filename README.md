@@ -103,4 +103,4 @@ In Cloud 9, I created an environment which created a new EC2 instance so that it
 Testing the architecture that I had built was a pain because I would have a graveyard of terminated instances. These instances existed because I had trouble getting the actual web application to show up and I would constantly terminate them and then do a load test again. So I made sure to have the most updated information such as the newest images. 
 ![grave](https://github.com/itsvivianmill/AWS-Web-Application/assets/116047994/59dd2b22-3c3d-4dd0-a1b7-76c83fedd96d)
 
-
+In the end, it was a more difficult project than I thought that it was going to be. I plan to expand the framework later by adding AWS RDS and learn to decouple databases, but building a bare bone architecture has been a good start to my learning.
