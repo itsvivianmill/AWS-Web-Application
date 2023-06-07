@@ -6,7 +6,7 @@ The hypothetical scenario is about a school called XYZ University that is prepar
 To preface, my web application could be expanded and more sophisticated but my framework is very barebones with only the necessary EC2 instances, autoscaling, and load balancing services. My first vision of my framwork looked like this:
 ![og](https://github.com/itsvivianmill/AWS-Web-Application/assets/116047994/d7f55353-826f-4c33-8f75-04f15b48bab0)
 
-I also had an estimated price that included all of thes services, however they were most definitely an over estimate of how it actually turned out.
+I also had an estimated price that included all of thes services, however they were most definitely an over estimate of how it actually turned out. I would say that I thought this project would be more expensive than it was and in the end, I only used less than $30.
 ![price](https://github.com/itsvivianmill/AWS-Web-Application/assets/116047994/f2df920b-8fce-4cde-b6ff-9794772968a2)
 
 
