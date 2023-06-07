@@ -1,11 +1,11 @@
 # AWS-Web-Application
-![AWS Capstone Project Lucidchart](https://github.com/itsvivianmill/AWS-Web-Application/assets/116047994/cfbc708a-7db2-4a28-9eb5-5b53ef7eae5e)
 
 ## Overview and Objectives 
 The hypothetical scenario is about a school called XYZ University that is preparing for the new school year and there have been complaints that their web application is slow or not available during the admissions period. XYZ University wants their framework to be able to handle peak admissions periods, support thousands of users, and be highly available, scalable, load balanced, secure, and high performing. 
 
-To preface, my web application could be expanded and more sophisticated but my framework is very barebones with only the necessary EC2 instances, autoscaling, and load balancing services.  
-
+To preface, my web application could be expanded and more sophisticated but my framework is very barebones with only the necessary EC2 instances, autoscaling, and load balancing services. My first vision of my framwork looked like this:
+![og](https://github.com/itsvivianmill/AWS-Web-Application/assets/116047994/d7f55353-826f-4c33-8f75-04f15b48bab0)
+I also had an estimated price that included all of thes services, however they were most definitely an over estimate of how it actually turned out.
 ## Task 1 Create a VPC
 When launching into the AWS console, the first thing I did was create a VPC. By going to the search bar and looking up VPC, I clicked on ‘Create VPC’ which led me to the different options. I configured the VPC as the following:
 * **Resources to create**: VPC and more
@@ -104,4 +104,5 @@ In Cloud 9, I created an environment which created a new EC2 instance so that it
 Testing the architecture that I had built was a pain because I would have a graveyard of terminated instances. These instances existed because I had trouble getting the actual web application to show up and I would constantly terminate them and then do a load test again. So I made sure to have the most updated information such as the newest images. 
 ![grave](https://github.com/itsvivianmill/AWS-Web-Application/assets/116047994/59dd2b22-3c3d-4dd0-a1b7-76c83fedd96d)
 
-In the end, it was a more difficult project than I thought that it was going to be. I plan to expand the framework later by adding AWS RDS and learn to decouple databases, but building a bare bone architecture has been a good start to my learning.
+In the end, it was a more difficult project than I thought that it was going to be. I plan to expand the framework later by adding AWS RDS and learn to decouple databases, but building a bare bone architecture has been a good start to my learning. As a result, this was what my framework looked like. 
+![AWS Capstone Project Lucidchart](https://github.com/itsvivianmill/AWS-Web-Application/assets/116047994/cfbc708a-7db2-4a28-9eb5-5b53ef7eae5e)
