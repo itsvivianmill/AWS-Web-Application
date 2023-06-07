@@ -5,6 +5,7 @@ The hypothetical scenario is about a school called XYZ University that is prepar
 
 To preface, my web application could be expanded and more sophisticated but my framework is very barebones with only the necessary EC2 instances, autoscaling, and load balancing services. My first vision of my framwork looked like this:
 ![og](https://github.com/itsvivianmill/AWS-Web-Application/assets/116047994/d7f55353-826f-4c33-8f75-04f15b48bab0)
+
 I also had an estimated price that included all of thes services, however they were most definitely an over estimate of how it actually turned out.
 ## Task 1 Create a VPC
 When launching into the AWS console, the first thing I did was create a VPC. By going to the search bar and looking up VPC, I clicked on ‘Create VPC’ which led me to the different options. I configured the VPC as the following:
