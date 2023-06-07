@@ -7,6 +7,9 @@ To preface, my web application could be expanded and more sophisticated but my f
 ![og](https://github.com/itsvivianmill/AWS-Web-Application/assets/116047994/d7f55353-826f-4c33-8f75-04f15b48bab0)
 
 I also had an estimated price that included all of thes services, however they were most definitely an over estimate of how it actually turned out.
+![price](https://github.com/itsvivianmill/AWS-Web-Application/assets/116047994/f2df920b-8fce-4cde-b6ff-9794772968a2)
+
+
 ## Task 1 Create a VPC
 When launching into the AWS console, the first thing I did was create a VPC. By going to the search bar and looking up VPC, I clicked on ‘Create VPC’ which led me to the different options. I configured the VPC as the following:
 * **Resources to create**: VPC and more
